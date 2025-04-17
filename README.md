@@ -1,2 +1,2 @@
 # SpaceEngineersCoordinator
-Set of tool for working with a GPS coordinates in game "SpaceEngineers"
+Set of tool for working with GPS coordinates in SpaceEngineers
